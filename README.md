@@ -9,5 +9,5 @@ This tree is without any pruning, only have a parameter to limit the depth of th
 
 # TODO
 
-1, Visualize the decision tree in the browser.
+1. Visualize the decision tree in the browser.
 
