@@ -1,0 +1,16 @@
+yes,poke,green,normal,yes
+no,poke,yellow,normal,no
+no,great,yellow,normal,no
+yes,ultra,yellow,normal,yes
+no,poke,red,normal,no
+yes,great,red,normal,yes
+yes,great,green,water,yes
+no,great,yellow,water,no
+yes,poke,red,water,no
+no,ultra,red,water,yes
+no,poke,red,flying,no
+yes,great,yellow,flying,yes
+no,ultra,yellow,flying,yes
+yes,great,red,flying,yes
+no,poke,green,psychic,no
+no,great,yellow,psychic,no
