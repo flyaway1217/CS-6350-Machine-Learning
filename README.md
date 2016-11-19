@@ -17,6 +17,10 @@ This perceptron is implemented based on the 3 different perceptron algorithm:
 
 This implementation also include a simple ``draw.py`` script which is used to draw figures of different parameters.
 
+# SVM
+
+This SVM model is based on sub-gradient algorithm.
+
 # TODO
 
 1. Visualize the decision tree in the browser.
